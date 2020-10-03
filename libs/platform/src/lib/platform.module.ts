@@ -23,7 +23,7 @@ import { PlatformInputModule, PlatformStepInputModule, PlatformInputGroupModule 
 import { PlatformComboboxMobileModule } from './components/form/combobox/combobox-mobile/combobox-mobile.module';
 import { PlatformComboboxModule } from './components/form/combobox';
 import { PlatformThumbnailModule } from './components/thumbnail/public_api';
-import { PlatformObjectAttributeModule } from './components/object-attribute/public_api';
+import { PlatformObjectAttributeModule } from './components/object-attribute/object-attribute.module';
 
 @NgModule({
     imports: [CommonModule, FundamentalNgxCoreModule],
