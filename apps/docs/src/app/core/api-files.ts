@@ -132,6 +132,7 @@ export const API_FILES = {
         'MenuKeyboardService'
     ],
     messageStrip: ['MessageStripComponent'],
+    messageToast: ['MessageToastComponent', 'MessageToastConfig', 'MessageToastService', 'MessageToastRef'],
     dialog: [
         'DialogService',
         'DialogContainerComponent',
